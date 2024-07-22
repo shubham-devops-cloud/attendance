@@ -3,4 +3,5 @@ pythonBuild{
     ecrTagName = 'attendance'
     targetPom = 'pom.xml'
     dockerFile = 'DockerServiceDescription/Dockerfile'
+    projectType = 'python'
 }
